@@ -174,7 +174,5 @@ function examCommand(arguments, receivedMessage) {
 }
 
 // Add the bot secret_token abc
-bot_secret_token = "NjY1ODIxODE3MjY4NjAwODUy.XhrRmw.Gf_2Vpii7wEItW4BpBo99ri44Vk"
 
-client.login(bot_secret_token)
 
